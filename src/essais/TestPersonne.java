@@ -2,7 +2,6 @@ package essais;
 
 import entites.AdressePostale;
 import entites.Personne;
-import entites.Pouet;
 
 public class TestPersonne {
 
